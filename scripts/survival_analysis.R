@@ -1,7 +1,7 @@
 library(survival)
 
 #dataset 
-data <- read.csv("heart failure prediction dataset\\heart_failure_clinical_records_dataset.csv")
+data <- read.csv("heart_failure_clinical_records_dataset.csv")
 head(data)
 event = data$DEATH_EVENT
 
