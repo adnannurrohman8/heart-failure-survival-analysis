@@ -65,9 +65,6 @@ heart-failure-survival-analysis/
 │   └── heart_failure_clinical_records_dataset.csv
 ├── scripts/
 │   └── survival_analysis.R
-├── reports/
-│   ├── survival_analysis.Rmd
-│   └── survival_analysis.md
 ├── .gitignore
 └── README.md
 ```
