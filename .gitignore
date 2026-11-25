@@ -1,0 +1,25 @@
+# History & Session Files
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+
+# RStudio Files
+.Rproj.user/
+*.Rproj
+
+# R Markdown & Knitr Output / Cache
+*_cache/
+*_files/
+*.utf8.md
+*.knit.md
+*.html
+*.pdf
+
+# Temporary & System Files (Windows)
+~$*
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini
